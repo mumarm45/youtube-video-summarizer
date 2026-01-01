@@ -89,3 +89,9 @@ youtube-summerizer/
 - **Vector Store**: FAISS
 - **UI**: Gradio
 - **Transcript API**: youtube-transcript-api
+
+## Sample 
+
+<img width="1535" height="717" alt="image" src="https://github.com/user-attachments/assets/5ee97b5e-6f17-4698-ba23-87978921ad43" />
+
+  
